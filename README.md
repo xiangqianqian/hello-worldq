@@ -1,3 +1,3 @@
 # hello-worldq
 My first repository on Github.
-I love :coffee:,pizza:,and :dancer:.
+I love :coffee:,and :dancer:.
